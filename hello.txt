@@ -2,3 +2,5 @@ Hello ini Rico Candra dengan NIM 191110708
 
 
 Menambah cabang fitur-a yang induk cabangnya adalah develop
+
+sekarang di cabang rilis akan merge ke cabang master
